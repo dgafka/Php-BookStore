@@ -136,6 +136,69 @@
     <td>0.18408203125ms</td>
   </tr>
   
+  
+  <tr>
+    <td>Clean PHP</td>
+    <td>100</td> 
+    <td>1</td>
+    <td>0.004951000213623ms</td>
+  </tr>
+    <tr>
+    <td>Clean PHP</td>
+    <td>100</td> 
+    <td>2</td>
+    <td>0.0052897930145264ms</td>
+  </tr>
+    <tr>
+    <td>Clean PHP</td>
+    <td>100</td> 
+    <td>3</td>
+    <td>0.0047249794006348ms</td>
+  </tr>
+    <tr>
+    <td>Clean PHP</td>
+    <td>100</td> 
+    <td>4</td>
+    <td>0.0049178600311279ms</td>
+  </tr>
+    <tr>
+    <td>Clean PHP</td>
+    <td>100</td> 
+    <td>5</td>
+    <td>0.0054841041564941ms</td>
+  </tr>
+  
+  <tr>
+    <td>Zephir</td>
+    <td>100</td> 
+    <td>1</td>
+    <td>0.0070819854736328ms</td>
+  </tr>
+    <tr>
+    <td>Zephir</td>
+    <td>100</td> 
+    <td>2</td>
+    <td>0.0076801776885986ms</td>
+  </tr>
+    <tr>
+    <td>Zephir</td>
+    <td>100</td> 
+    <td>3</td>
+    <td>0.0069658756256104ms</td>
+  </tr>
+    <tr>
+    <td>Zephir</td>
+    <td>100</td> 
+    <td>4</td>
+    <td>0.0068809986114502ms</td>
+  </tr>
+    <tr>
+    <td>Zephir</td>
+    <td>100</td> 
+    <td>5</td>
+    <td>0.0069999694824219ms</td>
+  </tr>
+  
 </table>
 
 </table>
