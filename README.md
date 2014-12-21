@@ -76,31 +76,31 @@
   
   <tr>
     <td>Clean PHP</td>
-    <td>10000</td> 
+    <td>1000</td> 
     <td>1</td>
     <td>0.19838714599609ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
-    <td>10000</td> 
+    <td>1000</td> 
     <td>2</td>
     <td>0.15865206718445ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
-    <td>10000</td> 
+    <td>1000</td> 
     <td>3</td>
     <td>0.15776801109314ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
-    <td>10000</td> 
+    <td>1000</td> 
     <td>4</td>
     <td>0.15975594520569ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
-    <td>10000</td> 
+    <td>1000</td> 
     <td>5</td>
     <td>0.16865801811218ms</td>
   </tr>
