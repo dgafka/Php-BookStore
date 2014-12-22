@@ -15,31 +15,31 @@
     <td>Clean PHP</td>
     <td>10000</td> 
     <td>1</td>
-    <td>20.337090015411ms</td>
+    <td>20.016590ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>10000</td> 
     <td>2</td>
-    <td>20.29586315155ms</td>
+    <td>19.745666ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>10000</td> 
     <td>3</td>
-    <td>20.57569694519ms</td>
+    <td>19.404305ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>10000</td> 
     <td>4</td>
-    <td>20.528285980225ms</td>
+    <td>19.476062ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>10000</td> 
     <td>5</td>
-    <td>20.322417974472ms</td>
+    <td>19.848014ms</td>
   </tr>
   
   
@@ -47,93 +47,93 @@
     <td>Zephir</td>
     <td>10000</td> 
     <td>1</td>
-    <td>20.780328035355ms</td>
+    <td>19.662290ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>10000</td> 
     <td>2</td>
-    <td>21.186216115952ms</td>
+    <td>19.670552ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>10000</td> 
     <td>3</td>
-    <td>20.857846021652ms</td>
+    <td>19.377817ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>10000</td> 
     <td>4</td>
-    <td>20.544716835022ms</td>
+    <td>19.108817ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>10000</td> 
     <td>5</td>
-    <td>20.764199018478ms</td>
+    <td>19.386876ms</td>
   </tr>
   
   <tr>
     <td>Clean PHP</td>
     <td>1000</td> 
     <td>1</td>
-    <td>0.19838714599609ms</td>
+    <td>0.156562ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>1000</td> 
     <td>2</td>
-    <td>0.15865206718445ms</td>
+    <td>0.157638ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>1000</td> 
     <td>3</td>
-    <td>0.15776801109314ms</td>
+    <td>0.156771ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>1000</td> 
     <td>4</td>
-    <td>0.15975594520569ms</td>
+    <td>0.155907ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>1000</td> 
     <td>5</td>
-    <td>0.16865801811218ms</td>
+    <td>0.165265ms</td>
   </tr>
   
   <tr>
     <td>Zephir</td>
     <td>1000</td> 
     <td>1</td>
-    <td>0.18288612365723ms</td>
+    <td>0.162988ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>1000</td> 
     <td>2</td>
-    <td>0.18787503242493ms</td>
+    <td>0.164650ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>1000</td> 
     <td>3</td>
-    <td>0.18790102005005ms</td>
+    <td>0.163487ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>1000</td> 
     <td>4</td>
-    <td>0.18348097801208ms</td>
+    <td>0.164317ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>1000</td> 
     <td>5</td>
-    <td>0.18408203125ms</td>
+    <td>0.165328ms</td>
   </tr>
   
   
@@ -141,62 +141,62 @@
     <td>Clean PHP</td>
     <td>100</td> 
     <td>1</td>
-    <td>0.004951000213623ms</td>
+    <td>0.005081ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>100</td> 
     <td>2</td>
-    <td>0.0052897930145264ms</td>
+    <td>0.004434ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>100</td> 
     <td>3</td>
-    <td>0.0047249794006348ms</td>
+    <td>0.005733ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>100</td> 
     <td>4</td>
-    <td>0.0049178600311279ms</td>
+    <td>0.005672ms</td>
   </tr>
     <tr>
     <td>Clean PHP</td>
     <td>100</td> 
     <td>5</td>
-    <td>0.0054841041564941ms</td>
+    <td>0.005393ms</td>
   </tr>
   
   <tr>
     <td>Zephir</td>
     <td>100</td> 
     <td>1</td>
-    <td>0.0070819854736328ms</td>
+    <td>0.005609ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>100</td> 
     <td>2</td>
-    <td>0.0076801776885986ms</td>
+    <td>0.011907ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>100</td> 
     <td>3</td>
-    <td>0.0069658756256104ms</td>
+    <td>0.005806ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>100</td> 
     <td>4</td>
-    <td>0.0068809986114502ms</td>
+    <td>0.005071ms</td>
   </tr>
     <tr>
     <td>Zephir</td>
     <td>100</td> 
     <td>5</td>
-    <td>0.0069999694824219ms</td>
+    <td>0.011168ms</td>
   </tr>
   
 </table>
