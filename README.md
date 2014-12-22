@@ -3,6 +3,7 @@
 <h4>This application was written in clean PHP and in Zephir (<a href="https://github.com/dgafka/zephir-BookStore">Zephir application</a>), to compare times between these two</h4>
 
 <h5>Results are here:</h5>
+Test works without opcache.
 
 <table>
   <tr>
